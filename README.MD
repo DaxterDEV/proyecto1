@@ -5,7 +5,19 @@ INTRUCCIONES
 -A = Added (Agregado)
 
 Otras Cosas
-Una linea MCA
-otro agregado
+NOTA IMPORTANTE: Una linea MCA VERDE aparecera cuando la modificacion del codigo es Untraked
 
+practicar y conocer para que se usan estos siguientes comandos
+.......
 
+- Ver video.git
+- Crear repositorio y seguir ejemplos del video.
+- Aprender y dar explicacion de cuando se usan:
+
+git init
+archivo .gitignore
+git checkout
+git checkout -b
+git pull
+git commit
+git push
