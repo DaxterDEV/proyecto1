@@ -1,4 +1,4 @@
-INTRUCCIONES
+INTRUCCIONES de proyecto
 ......
 
 -U = Untraked (Sin Seguimiento)
