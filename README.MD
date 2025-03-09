@@ -1,6 +1,6 @@
 INTRUCCIONES de proyecto
 Entrega Domingo Marzo 9, 2025
-nueva rama......sd
+nueva rama......sdd
 ......
 dd
 -U = Untrakedd (Sin Seguimiento)
