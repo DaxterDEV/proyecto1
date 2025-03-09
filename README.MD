@@ -1,4 +1,5 @@
-INTRUCCIONES
+INTRUCCIONES de proyecto
+Entrega Domingo Marzo 9, 2025
 ......
 
 -U = Untraked (Sin Seguimiento)
