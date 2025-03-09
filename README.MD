@@ -21,3 +21,5 @@ git checkout -b
 git pull
 git commit
 git push
+TRABAJANDO DESDE NUEVA RAMA RICHIE-ORIGINAL
+NOTA: PRIMERA VEZ DESDE NUEVA RAMA.
