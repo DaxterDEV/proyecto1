@@ -26,3 +26,6 @@ const saludar = function (nombre) {
 };
 const hacerSaludo = saludar("pedro");
 hacerSaludo();
+
+//NOTA IMPORTANTE (.map(), .filter(), y .reduce() Tambien son Funsiones
+//  Superiores por que Reciven Una Funsion Como algumento )
