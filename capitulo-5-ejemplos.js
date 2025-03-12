@@ -18,13 +18,13 @@ function fOrdenSuperior(argum, funcion) {
 }
 console.log(fOrdenSuperior(5, suma));
 
-//EJEMPLO 1
-const saludar = function (nombre) {
+//EJEMPLO 2
+let saludar = function (nombre) {
   return function () {
     return console.log("Hola, " + nombre + "!");
   };
 };
-const hacerSaludo = saludar("pedro");
+const hacerSaludo = saludar("Johan")
 hacerSaludo();
 
 //NOTA IMPORTANTE (.map(), .filter(), y .reduce() Tambien son Funsiones
