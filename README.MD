@@ -1,8 +1,9 @@
 INTRUCCIONES de proyecto
 Entrega Domingo Marzo 9, 2025
+nueva rama......sdd
 ......
-
--U = Untraked (Sin Seguimiento)
+dd
+-U = Untrakedd (Sin Seguimiento)
 -A = Added (Agregado)
 
 Otras Cosas
