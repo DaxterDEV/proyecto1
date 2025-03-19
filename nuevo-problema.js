@@ -65,3 +65,10 @@ console.log(`Total de ventas: $${totalVentas}`);
 console.log(ventasPorCategoria); // → { Electrónica: 1025, Educación: 75 }
 // Productos con más de $50 en ventas
 console.log(productosCaros); // → ["Laptop", "Mochila"]
+
+//Aplanamiento, Ejercicio CAP-5
+let arrays = [[1, 2, 3], [4, 5], [6]];
+// Tu código aquí.
+const aplanado = arrays.reduce((acc, aplanar) => acc.concat(aplanar), []);
+console.log(aplanado);
+// → [1, 2, 3, 4, 5, 6]
