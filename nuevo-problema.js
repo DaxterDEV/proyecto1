@@ -87,7 +87,6 @@ Escribe dos versiones, una usando un bucle y otra usando el método some.
 function every(array, test) {
   // Your code here.
 }
-
 console.log(every([1, 3, 5], (n) => n < 10));
 // → true
 console.log(every([2, 4, 16], (n) => n < 10));
